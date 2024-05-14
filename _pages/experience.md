@@ -20,12 +20,8 @@ nav_order: 1
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Undergraduate Researcher and Thesis Student</h6>
-    <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">Lab of Dr. Jingjing Gao</li>
-    </ul>
-    <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">&#x2022; Lipid nanoparticle delivery in the brain.</li>
-    </ul>
+    <h6>Lab of Dr. Jingjing Gao</h6>
+    <h6>&#x2022; Lipid nanoparticle delivery to the brain</h6>
   </div>
 </div>
 
@@ -42,12 +38,8 @@ nav_order: 1
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Undergraduate Researcher</h6>
-    <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item"><a href="https://ctvr.uci.edu/">Lab of Dr. Krzysztof Palczewski</a></li>
-    </ul>
-    <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">&#x2022; Genome editing for the treatment of inherited retinal diseases.</li>
-    </ul>
+    <h6><a href="https://ctvr.uci.edu">Lab of Dr. Krzysztof Palczewski</a></h6>
+    <h6>&#x2022; Genome editing for the treatment of inherited retinal diseases</h6>
   </div>
 </div>
 
@@ -64,11 +56,7 @@ nav_order: 1
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Greg Call Fellow</h6>
-    <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">Lab of Professor Sally Kim</li>
-    </ul>
-    <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">&#x2022; Actin dynamics and regulation at the synapse.</li>
-    </ul>
+    <h6>Lab of Professor Sally Kim</h6>
+    <h6>&#x2022; Actin dynamics and regulation at the synapse</h6>
   </div>
 </div>
