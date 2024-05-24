@@ -1,13 +1,14 @@
 ---
 layout: post
-title: 'Hangari Kalguksu (Los Angeles, CA)'
+title: "Hangari Kalguksu (Los Angeles, CA)"
 date: 2024-05-18 18:00:00
-description: '3470 W 6th St, Los Angeles, CA 90020'
-tags: korean 
+description: "3470 W 6th St, Los Angeles, CA 90020"
+tags: korean
 categories: Restaurants
 thumbnail:
 ---
-Deciding on a restaurant in K Town with a group of friends that include a vegetarian and a seafood allergic is challenging to say the least. Eventually we landed at Hangari Kalguksu in the strip mall across the street from the K Town Hmart. We waited in a short line and were led to our table after placing our order. 
+
+Deciding on a restaurant in K Town with a group of friends that include a vegetarian and a seafood allergic is challenging to say the least. Eventually we landed at Hangari Kalguksu in the strip mall across the street from the K Town Hmart. We waited in a short line and were led to our table after placing our order.
 As the name would imply, Hangari Kalguksu specializes in _kalguksu_, or knife-cut noodles. The menu reflects this, with different types of kalguksu taking up the majority of the offerings. Some non-kalguksu items include their acclaimed _bossam_, pork belly, or the _bibimmyeon_, cold noodles (which are also vegetarian).
 
 <div class="row mt-3">
@@ -19,7 +20,7 @@ As the name would imply, Hangari Kalguksu specializes in _kalguksu_, or knife-cu
     Banchan
 </div>
 
-We arrived at our table stacked high with a variety of banchan, including cabbage and radish kimchi, _ssam-mu_ (pickled radish paper), _bori bap_ (barley rice), and _ssamjang_ (sauce for the bossam). 
+We arrived at our table stacked high with a variety of banchan, including cabbage and radish kimchi, _ssam-mu_ (pickled radish paper), _bori bap_ (barley rice), and _ssamjang_ (sauce for the bossam).
 Though the kimchi was a bit underseasoned for me, they did provide a bit of a funky bite that led to a little satisfaction.
 
 <div class="row mt-3">
