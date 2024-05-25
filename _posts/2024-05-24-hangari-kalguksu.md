@@ -46,4 +46,4 @@ We got the large bossam to share around the table, and while the cabbage was pic
 Next up I got the seafood kalguksu, which features knife-cut flour noodles floating in a spicy anchovy broth along with a variety of shellfish. The noodle themselves were very tender, springy, and quite flavorful when drenched in the oceanic soup.
 The shellfish, however, was pretty overcooked and sparse when compared to the quantity of noodles.
 
-Overall, I would give Hangari Kalguksu 79 points.
+Overall, I would give Hangari Kalguksu <a href="/blog/2024/rating/">79 points.</a>
