@@ -13,7 +13,7 @@ As the name would imply, Hangari Kalguksu specializes in _kalguksu_, or knife-cu
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/2024-05-24-hangari-kalguksu/1.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-05-24-hangari-kalguksu/1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -25,7 +25,7 @@ Though the kimchi was a bit underseasoned for me, they did provide a bit of a fu
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/2024-05-24-hangari-kalguksu/2.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-05-24-hangari-kalguksu/2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -36,7 +36,7 @@ We got the large bossam to share around the table, and while the cabbage was pic
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/2024-05-24-hangari-kalguksu/3.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-05-24-hangari-kalguksu/3.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
